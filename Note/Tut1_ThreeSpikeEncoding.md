@@ -19,4 +19,4 @@
 
 #### 总结
 
-![1736066161678](image/Note/1736066161678.png)![image-20250105161713817](C:\Users\Boqiw\AppData\Roaming\Typora\typora-user-images\image-20250105161713817.png)
+![1736066161678](image/Note/1736066161678.png)
